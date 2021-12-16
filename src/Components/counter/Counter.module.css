@@ -1,0 +1,17 @@
+.count{
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  padding: 5px;
+  margin: 2rem;
+}
+.count label{
+  margin: 5px;
+}
+.count input{
+  margin: 5px;
+}
+.count button{
+  margin: 5px;
+  max-width: fit-content;
+}
